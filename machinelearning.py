@@ -19,7 +19,6 @@ while count < iterations:
     W2 = W2 - a * (i2 * W5 * Delta)
     W3 = W3 - a * (i1 * W6 * Delta)
     W4 = W4 - a * (i2 * W6 * Delta)
-
     W5 = W5 - a * (H1 * Delta)
     W6 = W6 - a * (H2 * Delta)
 
