@@ -72,8 +72,3 @@ get_github_variables()
 
 #TESTVARIABLE TestVariableValue
 
-# curl -L \
-#   -H "Accept: application/vnd.github+json" \
-#   -H "Authorization: Bearer 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" \
-#   -H "X-GitHub-Api-Version: 2022-11-28" \
-#   https://api.github.com/repos/dilanasanga/aws-terraform-ec2-deployment/actions/variables/TESTVARIABLE
