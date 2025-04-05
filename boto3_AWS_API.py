@@ -71,4 +71,4 @@ get_github_variables()
 #  https://api.github.com/repos/OWNER/REPO/actions/variables/NAME
 
 #TESTVARIABLE TestVariableValue
-
+# Removed credentials
