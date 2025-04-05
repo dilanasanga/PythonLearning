@@ -17,3 +17,4 @@ input_string = input()
 inputnumbers = input_string.split()
 #Call function
 number_average(inputnumbers)
+#Just a comment
